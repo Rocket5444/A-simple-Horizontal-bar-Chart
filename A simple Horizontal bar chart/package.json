@@ -1,0 +1,6 @@
+{
+    "name": "ag-charts-example",
+    "dependencies": {
+      "ag-charts-enterprise": "^9.3.1"
+    }
+  }
